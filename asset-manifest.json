@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/placifyportal/static/css/main.9ad71128.css",
+    "main.js": "/placifyportal/static/js/main.9982ee4a.js",
+    "static/js/453.8c7ad2fc.chunk.js": "/placifyportal/static/js/453.8c7ad2fc.chunk.js",
+    "index.html": "/placifyportal/index.html",
+    "main.9ad71128.css.map": "/placifyportal/static/css/main.9ad71128.css.map",
+    "main.9982ee4a.js.map": "/placifyportal/static/js/main.9982ee4a.js.map",
+    "453.8c7ad2fc.chunk.js.map": "/placifyportal/static/js/453.8c7ad2fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad71128.css",
+    "static/js/main.9982ee4a.js"
+  ]
+}
